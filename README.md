@@ -15,7 +15,7 @@ MessMate is a web-based platform designed to help hostel students view daily upd
 - JavaScript
 
 ## Live Demo
-👉 https://your-username.github.io/messmate/
+👉 https://abhidhole102.github.io/messmate/
 
 ## Motivation
 Built to solve a real hostel problem where students are unaware of daily mess menus due to distance from the mess area.
